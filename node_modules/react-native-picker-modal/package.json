@@ -1,0 +1,10 @@
+{
+  "name": "react-native-picker-modal",
+  "version": "1.0.0",
+  "description": "A React Native Picker that mimics Android's implementation in iOS without changing the original API",
+  "main": "index.js",
+  "repository": "https://github.com/gerherz/react-native-picker-modal",
+  "author": "Gerardo Herz <gerherz@protonmail.com>",
+  "license": "MIT",
+  "private": false
+}
